@@ -1,2 +1,4 @@
 Order the Pizza
-Go Pick It Up
+Go Pick It Up 
+Eat Pizza
+Regret Eating Pizza
